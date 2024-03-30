@@ -1,0 +1,140 @@
+nav{
+    
+    background:black;
+    align-items:center
+    
+}
+.nav-link{
+    color:white;
+} 
+/* i:nth-of-type(1){
+    color:white;
+} */
+
+.navbar-brand{ 
+    color:white;
+}
+.nb{
+    margin-left:3% !important;
+}
+.ln{
+    margin-left:10%;
+}
+.first{
+    text-align:center;
+    padding-top:5%;   
+}
+
+.second{ 
+    /* position:absolute; */
+    /* top: -20%;
+    left: 50%;
+    transform: translate( -50%, -58%); */
+    text-align:center;
+    background:black;
+    width:100%;
+    padding-top: 5%;
+    color:white;
+    
+}
+
+/* img{
+    width:60%;
+     height:auto;
+} */
+#font{
+    font-family: 'Roboto', sans-serif;
+    font-size:60px !important;
+}
+a{
+    text-decoration:none !important;
+    font-size:17px;
+    color:rgb(55, 118, 255)
+}
+.third{
+    text-align:center;
+    /* position:absolute; */
+    padding-top:5%;
+    background:rgba(237, 229, 255, 0.959);
+    width:100%;
+    /* padding-top: 2%; */
+    color:black;
+    
+}
+
+
+
+.fourth{
+    text-align:center;
+    padding-top:5%;
+    background:rgba(250, 249, 249, 0.897);
+    width:100%;
+    color:black;
+}
+.fifth{
+    text-align:center;
+    background:black;
+    color:white;
+    width:100%;
+    padding-top:10%;
+    margin-left:4%;
+}
+#red{
+    color:red;
+}
+.sixth{
+    text-align:center;
+    padding-top:15%;
+    background: rgba(248, 246, 246, 0.932);
+}
+
+
+.seventh{
+    text-align:center;
+    
+}
+
+.eight{
+    text-align:center;
+    margin-top:8%;
+    height:120%
+}
+
+.nineth{
+    background:rgb(236, 183, 201);
+    margin-left:5%;
+    margin-top:3%;
+    width:100%;
+    height:20%;
+}
+.tenth{
+    width:130%;
+    height:200%;
+    margin-left:3%;
+    margin-right:3%;
+    margin-top:10%;
+}
+.gift{
+    margin-top:3%;
+}
+
+
+
+.last{
+    text-align:center;
+    margin-top:20%;
+    background: rgb(250, 249, 249);
+    
+}
+
+
+
+
+.paragraph{
+    margin-top:10%;
+    margin-left:5%;
+    margin-right:5%;
+    margin-bottom:3%;
+    font-size:13px;
+    background:rgb(235, 222, 222);
+}
